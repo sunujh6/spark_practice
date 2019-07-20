@@ -1,7 +1,7 @@
 # spark_practice
 1. running with spark 2.4.3 and python3.7.3
 
-2. edit bashrc files as below
+2. edit $~/.bashrc file as below
 
 export PATH=$SPARK_HOME/bin:$PATH
 
