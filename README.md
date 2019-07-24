@@ -1,7 +1,9 @@
 # spark_practice
-1. running with spark 2.4.3 and python3.7.3
+1. OS: Ubuntu 19.04, requirement software: spark 2.4.3, python3.7.3, jyupter notebook
 
-2. edit $~/.bashrc file as below
+2. required python packages: TBD
+
+3. edit $~/.bashrc file as below
 
 export PATH=$SPARK_HOME/bin:$PATH
 
