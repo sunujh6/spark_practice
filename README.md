@@ -3,7 +3,7 @@
 
 2. required python packages: requirements.txt
 
-$ pip install -r requirements.txt
+   $ pip install -r requirements.txt
 
 3. edit $~/.bashrc file as below
 
