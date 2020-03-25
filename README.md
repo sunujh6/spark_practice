@@ -20,7 +20,9 @@
    $ pyspark
 
 ########################
+
 ##About Data directory##
+
 ########################
 We use 'data' directory in spark distribution source file.
 
