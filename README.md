@@ -1,5 +1,5 @@
 # spark_practice
-1. OS: Ubuntu 19.04, requirement software: spark 2.4.3, python3.7.3, jyupter notebook
+1. OS: Ubuntu 19.04, requirement software: spark 2.4.3, python3.7.3, jupyter notebook
 
 2. required python packages: requirements.txt
 
@@ -15,3 +15,5 @@ export PYSPARK_DRIVER_PYTHON=jupyter
 
 export PYSPARK_DRIVER_PYTHON_OPTS='notebook'
 
+4. execute pyspark
+$ pyspark
