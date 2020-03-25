@@ -7,14 +7,14 @@
 
 3. edit $~/.bashrc file as below
 
-export PATH=$SPARK_HOME/bin:$PATH
+   export PATH=$SPARK_HOME/bin:$PATH
 
-export PYSPARK_PYTHON=python3
+   export PYSPARK_PYTHON=python3
 
-export PYSPARK_DRIVER_PYTHON=jupyter
+   export PYSPARK_DRIVER_PYTHON=jupyter
 
-export PYSPARK_DRIVER_PYTHON_OPTS='notebook'
+   export PYSPARK_DRIVER_PYTHON_OPTS='notebook'
 
 4. execute pyspark
 
-$ pyspark
+   $ pyspark
