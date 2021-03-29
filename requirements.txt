@@ -73,7 +73,7 @@ py4j==0.10.7
 pybind11==2.3.0
 pycairo==1.16.2
 pycups==1.9.73
-Pygments==2.4.2
+Pygments==2.7.4
 PyGObject==3.32.0
 PyJWT==1.7.0
 pymacaroons==0.13.0
